@@ -201,10 +201,6 @@ If the primary backend server goes offline, the ESP32 is configured to push data
 
 ---
 
-## Screenshots Placeholder
-
-*(Insert screenshots of Admin Dashboard, Patient Real-time charts, and Alert generation UI here).*
-
 ---
 
 ## Future Enhancements
@@ -217,7 +213,7 @@ If the primary backend server goes offline, the ESP32 is configured to push data
 
 ## Contributors
 
-- **Aditya** - Lead Developer & Architect
+- **Aditya, Jenil** - Lead Developer & Architect
 
 ## License
 
