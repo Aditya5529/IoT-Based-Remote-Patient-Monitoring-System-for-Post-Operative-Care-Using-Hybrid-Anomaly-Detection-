@@ -199,9 +199,6 @@ If the primary backend server goes offline, the ESP32 is configured to push data
 - **Missing Packages:** Ensure you run `pip install -r requirements.txt` from inside the activated virtual environment.
 - **Port Conflicts:** Ensure ports `8000` (FastAPI), `5173` (Vite), `5432` (Postgres), and `6379` (Redis) are available on your host machine.
 
----
-
----
 
 ## Future Enhancements
 
