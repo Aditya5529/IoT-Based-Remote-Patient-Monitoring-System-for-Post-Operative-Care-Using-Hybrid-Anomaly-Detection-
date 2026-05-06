@@ -1,0 +1,53 @@
+Fetching all users from database...
+------------------------------------------------------------
+Total Users: 7
+
+ID: bd10fe2e-d0a7-4bc5-8bb6-1c90817f46e3
+Email: admin@rpm.com
+Role: admin
+Hashed Password: $2b$12$gcQjU.ugemhaHC9Vvv5bUOLlXUBM5LHcXyywtDTUKrN9aIMXV54h.
+Is Active: True
+----------------------------------------
+ID: 0079f957-eaaa-423f-be35-9d8b2babf0c6
+Email: doctor@rpm.com
+Role: doctor
+Hashed Password: $2b$12$guoqhiVVmnDXBHlVKMmajeU214xa.EqHeQK3kXqLcSaNW2z/olW.W
+Is Active: True
+↳ Doctor Profile ID: 7f2650f2-3c94-4fc6-81c9-5045d1ac5bf4
+  Assigned Patients: [UUID('1732c5ff-ec1a-47b9-8e96-2ae4fdaa35e2'), UUID('85fbd5b7-1299-46ee-9ae0-a653938b77b7'), UUID('60710371-ee22-4852-83d6-eee719a3907e')]
+----------------------------------------
+ID: 16096581-a062-4712-9316-920007bb83c1
+Email: patient@rpm.com
+Role: patient
+Hashed Password: $2b$12$zoarheF1WjKiatkylbuZO.5SBEZjMXgxU/wi6QTWnJDLv.m1V6S7i
+Is Active: True
+↳ Patient Profile ID: 85fbd5b7-1299-46ee-9ae0-a653938b77b7
+----------------------------------------
+ID: 4b499aaf-1514-4d1a-bc36-49961d37f66b
+Email: adityanirajgupta@gmail.com
+Role: patient
+Hashed Password: $2b$12$dJTCXfe7T3xtNGieVNowgeNuiUciAB.c68ZQwLf3RAYQ9oJ6tILRm
+Is Active: True
+↳ Patient Profile ID: 1732c5ff-ec1a-47b9-8e96-2ae4fdaa35e2
+----------------------------------------
+ID: b95b0692-f3d2-4574-8295-4958d5c4f8d3
+Email: meenakshi@yahoo.com
+Role: patient
+Hashed Password: $2b$12$Gwea9GPCRBTFpZFMCBjyA.8vGrXmiPB4w4eDTEw/cbjiOpc7Mj/L.
+Is Active: True
+↳ Patient Profile ID: 60710371-ee22-4852-83d6-eee719a3907e
+----------------------------------------
+ID: dfce7eb8-2b0c-4670-8e25-76d52385ceac
+Email: test_patient@example.com
+Role: patient
+Hashed Password: $2b$12$Urga6LNqN96v4REf6NeQquRT/E/Uc4eVN2CTdeZsHFWQ0BcDSFQHK
+Is Active: True
+↳ Patient Profile ID: b8526470-c277-427d-a7eb-46dee02f0a10
+----------------------------------------
+ID: 0519759b-dcca-4b4a-8cc3-afabb1df36d0
+Email: newuser@rpm.com
+Role: patient
+Hashed Password: $2b$12$7l.I4cfY4vcLyu5DBUktBeDWv0LB9x4krFHiX65O5ihnN1P47L9.u
+Is Active: True
+↳ Patient Profile ID: 4b8b953c-4cf4-4b45-b770-f84b81df3909
+----------------------------------------

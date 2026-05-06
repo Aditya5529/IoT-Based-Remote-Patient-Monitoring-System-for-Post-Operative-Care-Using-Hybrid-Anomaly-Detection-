@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.env
+.venv
+env/
+venv.bak/
+
+# Node / Frontend
+node_modules/
+frontend_new/dist/
+frontend_new/build/
+.npm/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+
+# ML and Data
+*.joblib
+*.pkl
+*.model
+*.h5
+data/
+datasets/
+ml/artifacts/model.joblib
+
+# Docker
+.docker/
+
+# Secrets (Important)
+.env
+.env.*
+!.env.example
+secret.json
+credentials.json
